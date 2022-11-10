@@ -2,8 +2,7 @@
 **Ankita Vishawakarma
 **Roll No-2000540139001
 
-Hey folks i made this simple 3 dynamic web pages using html css nd js in the fronted and connected it with my sql database in my sql workbench in my local host 3306
-i made made the login page registration page and the contact us page and also the home page of the website at the last with the logout button at the end...
+I created these three straightforward dynamic web pages using HTML, CSS, and jQuery in the front end, and connected them to my SQL database in my SQL Workbench on my local host 3306; I created the login and registration pages, the contact page, and also the website's home page at the very end with a logout button.
 
 ## Login Page
 ![LoginPage!](https://github.com/AnkitaVishw/Xenonstack.1/blob/main/images/LoginPage.png)
